@@ -1,4 +1,4 @@
-# TownStar_AutoSell
+# TownStar AutoSell Bot
 Auto Sell Town Star (NFT Game) crafted items.
 
 
